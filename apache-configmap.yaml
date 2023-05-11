@@ -10,7 +10,8 @@ data:
       </head>
       <body>
         <h1>Hello, World!</h1>
-        <p>This is a simple web page hosted on Apache2 in an EKS cluster v4</p>
+        <p>This is a simple web page hosted on Apache2 in an EKS cluster</p>
+        <p>This is the second para v2 testing</p>
       </body>
     </html>
 
